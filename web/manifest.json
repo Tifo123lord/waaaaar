@@ -1,0 +1,35 @@
+{
+    "name": "World Dominion",
+    "short_name": "World Dominion",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#07090B",
+    "theme_color": "#0E1216",
+    "description": "A grand strategy simulation: command one of ten major powers through economy, diplomacy and war.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
